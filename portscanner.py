@@ -1,3 +1,5 @@
+# Port-Scanner by RedonTG 
+# Code written by RedonTG 
 
 
 import socket
