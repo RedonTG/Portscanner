@@ -1,4 +1,4 @@
-# Portscanner
+# Port-scanner
 
 Port Scanner Python Script
 
